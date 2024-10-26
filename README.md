@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+deploy-this-repo-ellieste-a96nco0xk-elizabeth-steubs-projects.vercel.app
