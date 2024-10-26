@@ -10,7 +10,7 @@ export async function load() {
     FROM
         containers`;
 
-    console.log({rows});
+    console.log('Fetched rows:', rows);
 
     return { containers: rows };
 }
