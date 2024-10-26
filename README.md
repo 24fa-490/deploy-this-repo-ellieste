@@ -26,7 +26,5 @@
 
 # Where am I deployed?
 
-# Project Deployment
-
 [https://deploy-this-repo-ellieste-a96nco0xk-elizabeth-steubs-projects.vercel.app](https://deploy-this-repo-ellieste-a96nco0xk-elizabeth-steubs-projects.vercel.app)
 
