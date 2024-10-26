@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-[https://deploy-this-repo-ellieste.vercel.app]
-(https://deploy-this-repo-ellieste.vercel.app)
+[here](https://deploy-this-repo-ellieste.vercel.app).
+
 
