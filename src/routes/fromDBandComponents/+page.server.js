@@ -1,4 +1,3 @@
-
 import sql from '$lib/server/database';
 
 export async function load() {
@@ -9,9 +8,10 @@ export async function load() {
         containerSize,
         dateContainerShipped
     FROM
-        containers';
+        containers`;
 
     console.log({rows});
 
     return { containers: rows };
 }
+
